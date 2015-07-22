@@ -1,2 +1,3 @@
 # Hello-World
-Hello World Command
+Hello World
+Scott here, this is my first time using GitHub
